@@ -1,5 +1,5 @@
 # Rotary Encoder Update
-We explore a stepless (detentless) Rotary Encoder and examine debounce methods - saee video #96 here: https://www.youtube.com/RalphBacon
+We explore a stepless (detentless) Rotary Encoder and examine debounce methods - see video #96 here: https://www.youtube.com/RalphBacon
 
 A couple of recent comments on a previous video #19 (Rotary Encoders) made me think and ponder. So here's an update that looks at both the original sketch and stepped Rotary Encoder and also at a newer detentless (stepless) one, with the problems it potentially presents.
 
