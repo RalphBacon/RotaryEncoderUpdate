@@ -116,4 +116,4 @@ String printByteAsBin(byte value, const char * channel) {
   }
 
   return channel + output;
-}
+} 
