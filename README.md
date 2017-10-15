@@ -18,6 +18,9 @@ NOTE: The PEC-016 part number convention is that the second digit determines whe
 Eg: PEC16-4020F-N0024 - it's the 4020F that is important - the second digit here (0) means STEPLESS
 The next part, N0024 determine whether a SWITCH pin is included (N=NO, S=YES) and the 24 shows how many steps per revolution
 
+Nick Gammon's excellent page on Interrupts (and indeed his entire web site is superb)
+https://www.gammon.com.au/forum/bbshowpost.php?id=11488
+
 The sketches used in the demo are in the repository. Just download as a zip file and unzip on your local machine.
 
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please do so :)
